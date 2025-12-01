@@ -1,5 +1,5 @@
 {
-	"name": "dep-python-worker",
+	"name": "dep",
 	"main": "src/index.py",
 	"compatibility_flags": ["python_workers"],
 	"compatibility_date": "2024-01-29",
